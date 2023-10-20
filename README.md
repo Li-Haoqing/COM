@@ -1,5 +1,7 @@
 # Click on Mask: A Labor-efficient Annotation Framework with Level Set for Infrared Small Target Detection
 
+This is the official repository of the paper 'Click on Mask: A Labor-efficient Annotation Framework with Level Set for Infrared Small Target Detection'.
+
 ## Requirements
 
 ```
