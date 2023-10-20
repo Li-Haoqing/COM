@@ -40,11 +40,17 @@ python3 model_training/val.py --img_size 256 --dataset 'IRSTD-1k' --batch-size 1
 ## Thanks:
 
 Part of the code draws on the work of the following authors:
+
 https://github.com/Ramesh-X/Level-Set
 
 model:
+
     ILNet: https://github.com/Li-Haoqing/ILNet/
+    
     ACM: https://github.com/YimianDai/sirst
+    
     AGPC: https://github.com/Tianfang-Zhang/AGPCNet
+    
     DNA-Net: https://github.com/YeRen123455/Infrared-Small-Target-Detection
+    
     UIUNet: https://github.com/danfenghong/IEEE_TIP_UIU-Net
