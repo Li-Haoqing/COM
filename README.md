@@ -1,6 +1,6 @@
-# Click on Mask: A Labor-efficient Annotation Framework with Level Set for Infrared Small Target Detection
+# A Level Set Annotation Framework With Single-Point Supervision for Infrared Small Target Detection
 
-This is the official repository of the paper 'Click on Mask: A Labor-efficient Annotation Framework with Level Set for Infrared Small Target Detection'.
+This is the official repository of the paper 'A Level Set Annotation Framework With Single-Point Supervision for Infrared Small Target Detection'.
 
 ## Requirements
 
@@ -62,11 +62,17 @@ model:
 ## Citation:
 
 @ARTICLE{10409613,
+
   author={Li, Haoqing and Yang, Jinfu and Xu, Yifei and Wang, Runshi},
+  
   journal={IEEE Signal Processing Letters}, 
+  
   title={A Level Set Annotation Framework With Single-Point Supervision for Infrared Small Target Detection}, 
+  
   year={2024},
+  
   volume={31},
+  
   pages={451-455},
-  keywords={Level set;Annotations;Manuals;Object detection;Task analysis;Clutter;Training;Deep learning;infrared small target detection;level set},
+  
   doi={10.1109/LSP.2024.3356411}}
