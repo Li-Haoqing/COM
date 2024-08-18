@@ -61,18 +61,11 @@ model:
 
 ## Citation:
 
-@ARTICLE{10409613,
-
-  author={Li, Haoqing and Yang, Jinfu and Xu, Yifei and Wang, Runshi},
-  
-  journal={IEEE Signal Processing Letters}, 
-  
-  title={A Level Set Annotation Framework With Single-Point Supervision for Infrared Small Target Detection}, 
-  
-  year={2024},
-  
-  volume={31},
-  
-  pages={451-455},
-  
-  doi={10.1109/LSP.2024.3356411}}
+    @ARTICLE{10409613,
+      author={Li, Haoqing and Yang, Jinfu and Xu, Yifei and Wang, Runshi},
+      journal={IEEE Signal Processing Letters}, 
+      title={A Level Set Annotation Framework With Single-Point Supervision for Infrared Small Target Detection}, 
+      year={2024},
+      volume={31},
+      pages={451-455},
+      doi={10.1109/LSP.2024.3356411}}
